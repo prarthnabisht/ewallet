@@ -68,7 +68,7 @@ https://image.ibb.co/i5rwMy/profile_pic.png
    </div>
  </div>
 </nav>
-<a href="pay.php"><button type="submit" class="btn btn-link">Pay</button></a>
+<a href="payportal.php"><button type="submit" class="btn btn-link">Pay</button></a>
 
 </body>
 </html>
